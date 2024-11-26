@@ -1,0 +1,91 @@
+# Node modules
+node_modules/
+ 
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+.pnpm/
+lib-cov/
+
+# Build directories
+dist/
+build/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Next.js
+.next/
+.vercel/
+*.next
+
+# Vite cache
+.vite/
+
+# Static build files
+public/build/
+
+# TypeScript
+*.tsbuildinfo
+
+# MacOS files
+*.DS_Store
+
+# Logs and error reporting
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+.lock-wscript
+
+# Coverage directories
+coverage/
+*.lcov
+
+# Yarn & pnpm files
+yarn.lock
+pnpm-lock.yaml
+
+# Testing
+coverage/
+.nyc_output/
+
+# Parcel-bundler
+.cache/
+dist/
+
+# Storybook files
+.storybook-out/
+
+# JetBrains IDEs
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Python virtual environment
+venv/
+__pycache__/
+
+# Build tools
+.build
